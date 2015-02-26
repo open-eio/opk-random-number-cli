@@ -1,0 +1,19 @@
+{
+  "name": "thingpipe_random",
+  "version": "0.0.0",
+  "description": "Thing that generates a random number for thingpipe",
+  "main": "poll",
+  "scripts": {
+    "test": "poll"
+  },
+  "keywords": [
+    "thingpipe"
+  ],
+  "author": {
+    "name": "rjsteinert"
+  },
+  "license": "ISC",
+  "readme": "ERROR: No README data found!",
+  "_id": "thingpipe_random@0.0.0",
+  "_from": "thingpipe_random@"
+}
